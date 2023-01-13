@@ -1,7 +1,9 @@
 # ls-calculator
 Projeto criado para estudo e para portifólio.
 
-![Captura de tela de 2023-01-09 08-33-57](https://user-images.githubusercontent.com/19824592/211299331-cee4915d-95bf-46a8-81ab-944feaef9ae9.png)
+
+![Captura de tela de 2023-01-13 08-06-54](https://user-images.githubusercontent.com/19824592/212306189-0f15d2b3-1c1d-46b6-864d-cea5e349d144.png)
+
 
 Utilizando Reactjs, CSS, Typescrip.
 
